@@ -28,3 +28,5 @@ VratitMince_optimal <- function(M,mince){
   }
   return(vratit)
 }
+
+JePotrebaVratit <- VratitMince_optimal(56,c(50, 20, 10, 5, 2, 1))
